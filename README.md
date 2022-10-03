@@ -13,7 +13,7 @@ The purpose of this project was to use data with three columns of: ballot ID, co
 **Election Audit Results**
 
 The image below is the summary of the election results
-![](Resouces/from_txtfile_result.png)
+![](analysis/from_txtfile_result.png)
 ![](RackMultipart20221003-1-x2vjd2_html_aa5828d56bac1db0.png)
 
 Diana DeGette has 73.8% of the votes and therefore the winner by popular vote in the congressional election receiving 272,892 votes. Charles Casper Stockman is second with 23.0% of votes receiving 85,213 votes, and Raymon Anthony Doane is last with 3.1% of votes receiving 11,606 votes.
